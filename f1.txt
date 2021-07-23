@@ -1,2 +1,3 @@
 Here am to learn devops
 even ready to learn aws
+ linux class starts from monday
