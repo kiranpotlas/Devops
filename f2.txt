@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 hi hw r u
-here am to learn stash commands
-press ctrl+d to save
-
